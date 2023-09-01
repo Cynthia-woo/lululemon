@@ -1,0 +1,29 @@
+.App {
+  position: relative;
+  text-align: center;
+  background-color: #fafafa;
+}
+
+section{
+  display: block;
+}
+
+div{
+  display: block;
+}
+
+.category-page{
+  background: #f8f8f8;
+  overflow: hidden;
+  transition: opacity 1s ease-in;
+  .category-container{
+    display: flex;
+    box-sizing: border-box;
+    margin: 0 auto;
+    position: relative;
+    max-width: 85.75rem;
+    padding-left: 25px;
+    padding-right: 25px;
+
+  }
+}

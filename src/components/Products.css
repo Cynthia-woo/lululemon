@@ -1,0 +1,14 @@
+.product-container {
+  display: flex;
+}
+
+.product-wrapper {
+  padding-right: 1.5625rem;
+  padding-left: 1.5625rem;
+  box-sizing: border-box;
+  max-width: 1372px;
+  margin: 0 auto;
+  position: relative;
+}
+
+/*# sourceMappingURL=Products.css.map */
